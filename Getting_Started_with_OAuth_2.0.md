@@ -1,0 +1,1 @@
+我从 99 年开始一直在做 web api 开发，为公司内部网络应用构建基于 SOAP 协议的 web 服务, 同时帮助成千上万的程序员更好的使用 Google 的 基于 Rest 的 api (包括 Google Calendar, Picasa Web Albums, YouTube 等等)。这期间几乎每一个接口都需要用户授权才能正常使用。之前开发者们必须要用像 ClientLogin 和 AuthSub 这样的鉴权技术才能使用这些 google api。如果开发者想使用 Yahoo 的 api 他们也需要使用雅虎的 BBAuth 鉴权。 如果应用中需要使用多个公司的 api, 这对开发者来说就会是一种挑战。 
